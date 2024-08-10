@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 I'm **Ayush Kumar**, a passionate DevOps Engineer with 5 years of experience in **AWS**, **CI/CD pipelines**, and **Kubernetes automation**. I thrive on building efficient cloud infrastructures and automating complex processes to enhance system reliability.
 
 ---

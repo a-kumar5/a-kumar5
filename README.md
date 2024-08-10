@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 I'm **Ayush Kumar**, a passionate DevOps Engineer with 5 years of experience in **AWS**, **CI/CD pipelines**, and **Kubernetes automation**. I thrive on building efficient cloud infrastructures and automating complex processes to enhance system reliability.
 

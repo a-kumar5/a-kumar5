@@ -28,7 +28,7 @@ I'm **Ayush Kumar**, a passionate DevOps Engineer with 5 years of experience in 
 - GitHub: [github.com/a-kumar5](http://www.github.com/a-kumar5)
 
 ### ⚡ Fun fact:
-I love exploring new system design patterns and have a keen interest in architecture and scalable solutions. When I'm not coding, you might find me brainstorming ideas for optimizing cloud environments.
+I love exploring new system design patterns and have a keen interest in architecture and scalable solutions. When I'm not immersed in code, you might catch me strategizing on the chessboard, cruising on a long drive, or smashing it out on the badminton court. 🏎️♟️🏸
 
 ---
 

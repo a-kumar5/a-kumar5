@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**a-kumar5/a-kumar5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ayush Kumar**, a passionate DevOps Engineer with 5 years of experience in **AWS**, **CI/CD pipelines**, and **Kubernetes automation**. I thrive on building efficient cloud infrastructures and automating complex processes to enhance system reliability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on:
+- Managing infrastructure across 15 AWS accounts at **Sears Holdings India**.
+- Developing Kubernetes native applications using Go and Python.
+- Automating deployment pipelines to streamline code integration and delivery.
+
+### 🌱 I’m currently learning:
+- Advanced Kubernetes Operators and Controllers.
+- Optimizing cloud costs with spot instances and automated scaling solutions.
+
+### 👯 I’m looking to collaborate on:
+- Open-source DevOps tools and automation frameworks.
+- Projects involving cloud infrastructure optimization and monitoring.
+
+### 💬 Ask me about:
+- Cloud infrastructure management and automation.
+- CI/CD best practices and tools like GitHub Actions, Terraform, and SAM.
+- Kubernetes cluster management and EKS automation.
+
+### 📫 How to reach me:
+- Email: [connectayushkumar@gmail.com](mailto:connectayushkumar@gmail.com)
+- LinkedIn: [linkedin.com/in/ayushdevops](http://www.linkedin.com/in/ayushdevops)
+- GitHub: [github.com/a-kumar5](http://www.github.com/a-kumar5)
+
+### ⚡ Fun fact:
+I love exploring new system design patterns and have a keen interest in architecture and scalable solutions. When I'm not coding, you might find me brainstorming ideas for optimizing cloud environments.
+
+---
+
+Let's connect and build something awesome together! ✨

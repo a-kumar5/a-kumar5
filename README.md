@@ -13,6 +13,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@devopsayush](https://medium.com/@devopsayush)
 
+- :yt: I regularly post videos on [https://www.youtube.com/@DevOpssAyush](https://www.youtube.com/@DevOpssAyush)
+  
 - 💬 Ask me about **AWS, Kubernetes, Python, Go**
 
 - 📫 How to reach me **connectayushkumar@gmail.com**

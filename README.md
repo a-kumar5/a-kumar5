@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@devopsayush](https://medium.com/@devopsayush)
 
-- ![image](https://github.com/user-attachments/assets/1cf75080-4775-4018-af08-774cfcd484ac) I regularly post videos on [https://www.youtube.com/@DevOpssAyush](https://www.youtube.com/@DevOpssAyush)
+- ![icon](https://github.com/user-attachments/assets/1cf75080-4775-4018-af08-774cfcd484ac) I regularly post videos on [https://www.youtube.com/@DevOpssAyush](https://www.youtube.com/@DevOpssAyush)
   
 - 💬 Ask me about **AWS, Kubernetes, Python, Go**
 

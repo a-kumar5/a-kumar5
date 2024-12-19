@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayushdevops" target="blank"><img src="https://img.shields.io/twitter/follow/ayushdevops?logo=twitter&style=for-the-badge" alt="ayushdevops" /></a> </p>
 
+- 🔭 I’m currently working on [sessy](https://github.com/a-kumar5/sessy.git)
 - 🔭 I’m currently working on [Kube Downscaler](https://github.com/a-kumar5/kube-downscaler)
 
 - 🌱 I’m currently learning **Airflow, MLOps**
